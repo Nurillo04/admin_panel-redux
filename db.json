@@ -26,6 +26,24 @@
       "group": "React N50",
       "teacher": "Shohjahon Muhammadiyev",
       "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+    },
+    {
+      "id": "3",
+      "firstName": "Sardor",
+      "lastName": "Turdaliyev",
+      "age": "32",
+      "group": "React N45",
+      "teacher": "Shohjahon Muhammadiyev",
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
+    },
+    {
+      "id": "3",
+      "firstName": "Maruf",
+      "lastName": "O`rinov",
+      "age": "25",
+      "group": "React N50",
+      "teacher": "Shohjahon Muhammadiyev",
+      "avatar": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png"
     }
   ],
   "teachers": [
